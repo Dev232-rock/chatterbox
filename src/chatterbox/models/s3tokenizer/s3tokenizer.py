@@ -1,6 +1,7 @@
 from typing import List, Tuple
 
 import numpy as np
+import pandas as pd
 import librosa
 import torch
 import torch.nn.functional as F
